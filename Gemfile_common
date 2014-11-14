@@ -1,3 +1,5 @@
+gem 'grizzly_ber', '~> 0.0.1'
+
 group :test do
   gem 'json-jruby', :platforms => :jruby
   gem 'jruby-openssl', :platforms => :jruby
