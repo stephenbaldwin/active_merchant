@@ -1,4 +1,4 @@
-gem 'grizzly_ber', '~> 0.0.2'
+gem 'grizzly_ber', '~> 0.0.3'
 
 group :test do
   gem 'json-jruby', :platforms => :jruby
